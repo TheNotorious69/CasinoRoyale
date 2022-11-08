@@ -50,7 +50,7 @@
 <nav class="navbar navbar-expand-lg" style="background-color: #302A58;" class="nav justify-content-center">
    <ul class="nav justify-content-center" style="backgroud-color: #302A58;">
       <li class="nav-item">
-         <a class="nav-item" class="nav-link" href="#" role="button" aria-expanded="false" style="color: #DDBF4C;">
+         <a class="nav-item" class="nav-link" href="<?=site_url('')?>" role="button" aria-expanded="false" style="color: #DDBF4C;">
             <img src="https://roobet.com/images/logo.svg" style="height: 100px">
          </a>
       </li>
