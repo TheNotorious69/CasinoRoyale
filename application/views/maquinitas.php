@@ -47,12 +47,30 @@
 
   
 
-<nav class="navbar navbar-expand-lg" style="background-color: #423C7A;" class="nav justify-content-center">
+<nav class="navbar navbar-expand-lg" style="background-color: #302A58;" class="nav justify-content-center">
    <ul class="nav justify-content-center" style="backgroud-color: #302A58;">
       <li class="nav-item">
-         <div class="nav-item" href="<?=site_url('maquinitas')?>" role="button" aria-expanded="false" style="color: #DDBF4C;">
+         <a class="nav-item" class="nav-link" href="#" role="button" aria-expanded="false" style="color: #DDBF4C;">
             <img src="https://roobet.com/images/logo.svg" style="height: 100px">
+         </a>
+      </li>
+      <li class="nav-item" style="margin-left: 250px" >
+         <div style="background-color: #403869; margin-top: 5px" class="rounded" >
+            <div class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color: #FFFFFF;">
+               <img src="https://cdn-icons-png.flaticon.com/512/15/15997.png" style="height: 70px">
+               $0.00
+               <button style="background-color: #60AF5A; padding: 15px 35px; border-radius: 12px" >Depositar</button>
+            </div>
          </div>
+      </li>
+      <li class="nav-item" style="margin-left: 250px">
+      <div style="color: #9B9B9B; margin-top: 30px">
+         <img src="https://icones.pro/wp-content/uploads/2021/06/icone-loupe-gris.png" style="height: 40px;">
+             Buscar Juegos
+         <img src="https://cdn-icons-png.flaticon.com/512/565/565422.png" style="height: 40px; background-color: #DDBF4C; margin-left: 20px; border-color: rgb(0, 0, 0); border-radius: 20px" class="img-thumbnail">
+         <img src="https://icons.veryicon.com/png/o/internet--web/55-common-web-icons/person-4.png" style="height: 40px; background-color: #DDBF4C; margin-left: 20px; border-color: rgb(0, 0, 0); border-radius: 20px" class="img-thumbnail">
+      </div>
+         
       </li>
    </ul>
 </nav>
