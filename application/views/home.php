@@ -25,7 +25,7 @@
           <a class="nav-link" href="#" style="color: #9B9B9B;" >Juegos Gratis</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="maquinitas" style="color: #9B9B9B;">Noticias</a>
+          <a class="nav-link" href="home/maquinitas" style="color: #9B9B9B;">Noticias</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#" style="color: #9B9B9B;">Promociones</a>
