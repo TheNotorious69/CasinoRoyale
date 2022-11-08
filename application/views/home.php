@@ -72,6 +72,7 @@
    </ul>
 </nav>
 
+<<<<<<< Updated upstream
 <!-- <div class="card" style="width: 18rem;" >
   
   <a href="<?=site_url('maquinitas')?>"><img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" class="card-img-top" style="width: 600px"></a>
@@ -84,6 +85,12 @@
    
    
   
+=======
+<div class="card" style="width: 18rem;" >
+  <img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" class="card-img-top" alt="...">
+  <a href="<?=site_url('maquinitas')?>">Maquinitas</a>
+</div>
+>>>>>>> Stashed changes
 
 
    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
