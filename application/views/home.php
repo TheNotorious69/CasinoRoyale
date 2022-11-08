@@ -64,7 +64,7 @@
    </ul>
 </nav>
 
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 18rem;" href="/maquinitas">
   <img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" class="card-img-top" alt="...">
 </div>
 
