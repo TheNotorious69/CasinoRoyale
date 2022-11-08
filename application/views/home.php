@@ -25,7 +25,7 @@
           <a class="nav-link" href="#" style="color: #9B9B9B;" >Juegos Gratis</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" style="color: #9B9B9B;">Noticias</a>
+          <a class="nav-link" href="maquinitas" style="color: #9B9B9B;">Noticias</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#" style="color: #9B9B9B;">Promociones</a>
@@ -48,7 +48,7 @@
 <nav class="navbar navbar-expand-lg" style="background-color: #423C7A;" class="nav justify-content-center">
    <ul class="nav justify-content-center" style="backgroud-color: #302A58;">
       <li class="nav-item">
-         <div class="nav-item" href="#" role="button" aria-expanded="false" style="color: #DDBF4C;">
+         <div class="nav-item" href="<?=site_url('maquinitas')?>" role="button" aria-expanded="false" style="color: #DDBF4C;">
             <img src="https://roobet.com/images/logo.svg" style="height: 100px">
          </div>
       </li>
