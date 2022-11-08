@@ -25,7 +25,7 @@
           <a class="nav-link" href="#" style="color: #9B9B9B;" >Juegos Gratis</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="maquinitas" style="color: #9B9B9B;">Noticias</a>
+          <a class="nav-link" href="#" style="color: #9B9B9B;">Noticias</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#" style="color: #9B9B9B;">Promociones</a>
@@ -48,8 +48,23 @@
 <nav class="navbar navbar-expand-lg" style="background-color: #423C7A;" class="nav justify-content-center">
    <ul class="nav justify-content-center" style="backgroud-color: #302A58;">
       <li class="nav-item">
-         <div class="nav-item" href="<?=site_url('maquinitas')?>" role="button" aria-expanded="false" style="color: #DDBF4C;">
+         <a class="nav-item" class="nav-link" href="#" role="button" aria-expanded="false" style="color: #DDBF4C;">
             <img src="https://roobet.com/images/logo.svg" style="height: 100px">
+         </a>
+      </li>
+      <li class="nav-item" style="margin-left: 100px">
+         <div class="border border-primary">
+            <img src="https://cdn-icons-png.flaticon.com/512/15/15997.png" style="height: 50px">
+            <div class="dropdown">
+               <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" style="height: 75px">
+                  Dropdown button
+               </button>
+               <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Action</a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><a class="dropdown-item" href="#">Something else here</a></li>
+               </ul>
+            </div>
          </div>
       </li>
    </ul>
