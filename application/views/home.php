@@ -48,7 +48,7 @@
 <nav class="navbar navbar-expand-lg" style="background-color: #302A58;" class="nav justify-content-center">
    <ul class="nav justify-content-center" style="backgroud-color: #302A58;">
       <li class="nav-item">
-         <a class="nav-item" class="nav-link" href="<?=site_url('home')?>" role="button" aria-expanded="false" style="color: #DDBF4C;">
+         <a class="nav-item" class="nav-link" href="#" role="button" aria-expanded="false" style="color: #DDBF4C;">
             <img src="https://roobet.com/images/logo.svg" style="height: 100px">
          </a>
       </li>
@@ -74,11 +74,10 @@
 </nav>
 
 <div class="card" style="width: 18rem;" >
-  <img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" class="card-img-top" alt="...">
   
+  <a href="<?=site_url('maquinitas')?>"><img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" class="card-img-top" alt="..."></a>
 </div>
 
-<Button><a href="<?=site_url('maquinitas')?>">Maquinitas</a></Button>
 
    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
