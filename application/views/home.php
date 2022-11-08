@@ -79,10 +79,12 @@
   <a href="<?=site_url('maquinitas')?>"><img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" class="card-img-top" style="width: 600px"></a>
 </div> -->
 
-
-   <div style="margin-left: 100px">
+   <div style="margin-left: 11%; margin-top: 50px">
       <img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" style="border-radius: 12px; height:150px; width: 550px" class="card-img-top" alt="...">
+      <img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" style="border-radius: 12px; height:150px; width: 550px; margin-left:70px" class="card-img-top" alt="...">
    </div>
+   
+   
   
 =======
 <div class="card" style="width: 18rem;" >
