@@ -72,6 +72,19 @@
    </ul>
 </nav>
 
+<div>
+<img src="..." class="img-thumbnail" alt="...">
+<img src="..." class="img-thumbnail" alt="...">
+<img src="..." class="img-thumbnail" alt="...">
+<img src="..." class="img-thumbnail" alt="...">
+<img src="..." class="img-thumbnail" alt="...">
+<img src="..." class="img-thumbnail" alt="...">
+<img src="..." class="img-thumbnail" alt="...">
+<img src="..." class="img-thumbnail" alt="...">
+<img src="..." class="img-thumbnail" alt="...">
+
+</div>
+
 
 
 
