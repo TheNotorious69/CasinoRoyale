@@ -73,14 +73,21 @@
 </nav>
 
    <div style="margin-left: 11%; margin-top: 50px">
-   <a href="<?=site_url('maquinitas')?>">
-      <img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" role="button" style="border-radius: 12px; height:150px; width: 550px" class="card-img-top" alt="...">
-   </a>
-   <a href="<?=site_url('maquinitas')?>">
-      <img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" style="border-radius: 12px; height:150px; width: 550px; margin-left:70px" class="card-img-top" alt="...">
-   </a>
+      <a href="<?=site_url('maquinitas')?>">
+         <img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" style="border-radius: 12px; height:150px; width: 550px" class="card-img-top" alt="...">
+      </a>
+      <a href="<?=site_url('maquinitas')?>">
+         <img src="https://casino.guide/media/roobet-crash.jpg" style="border-radius: 12px; height:150px; width: 550px; margin-left:70px" class="card-img-top" alt="...">
+      </a>
    </div>
-   
+   <div style="margin-left: 11%; margin-top: 50px" >
+      <a href="<?=site_url('maquinitas')?>">
+         <img src="../deporte-removebg-preview.png" style="border-radius: 12px; height:150px; width: 550px" class="card-img" alt="...">
+      </a>
+      <a href="<?=site_url('maquinitas')?>">
+         <img src="https://casino.guide/media/roobet-crash.jpg" style="border-radius: 12px; height:150px; width: 550px; margin-left:70px" class="card-img-top" alt="...">
+      </a>
+   </div>
    
   
 
