@@ -88,7 +88,7 @@
       <a href="<?=site_url('maquinitas')?>">
          <img src="../deporte-removebg-preview.png" style="border-radius: 12px; height:150px; width: 550px; background-color: #000000" class="card-img" alt="...">
       </a>
-      <a href="<?=site_url('maquinitas')?>">
+      <a href="<?=site_url('casino')?>">
          <img src="https://www.cronica.com.mx/uploads/2022/02/23/62170d0f964d3.png" style="border-radius: 12px; height:150px; width: 550px; margin-left:70px" class="card-img-top" alt="...">
       </a>
    </div>
