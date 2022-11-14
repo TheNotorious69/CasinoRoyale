@@ -51,8 +51,8 @@
             <img src="https://roobet.com/images/logo.svg" style="height: 100px">
          </a>
       </li>
-      <li class="nav-item" style="margin-left: 250px" >
-         <div style="background-color: #403869; margin-top: 5px" class="rounded" >
+      <li class="nav-item" style="margin-left: 250px;" >
+         <div style="background-color: #403869; margin-top: 5px; " class="rounded" >
             <div class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color: #FFFFFF;">
                <img src="https://cdn-icons-png.flaticon.com/512/15/15997.png" style="height: 70px">
                $0.00
@@ -72,7 +72,11 @@
    </ul>
 </nav>
 
-   <div style="margin-left: 11%; margin-top: 50px">
+   <div style="margin-left: 11%; margin-top: 50px; position: relative" >
+   <h3 style="position: absolute; top: 100px; left: 30px; color: #FFFFFF">Maquinas</h3>
+   <h3 style="position: absolute; top: 100px; left: 655px; color: #FFFFFF">Crash Games</h3>
+   <h3 style="position: absolute; top: 300px; left: 30px; color: #FFFFFF">Deportes</h3>
+   <h3 style="position: absolute; top: 300px; left: 655px; color: #FFFFFF">Casino en vivo</h3>
       <a href="<?=site_url('maquinitas')?>">
          <img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" style="border-radius: 12px; height:150px; width: 550px" class="card-img-top" alt="...">
       </a>
@@ -80,23 +84,62 @@
          <img src="https://casino.guide/media/roobet-crash.jpg" style="border-radius: 12px; height:150px; width: 550px; margin-left:70px" class="card-img-top" alt="...">
       </a>
    </div>
-   <div style="margin-left: 11%; margin-top: 50px" >
+   <div style="margin-left: 11%; margin-top: 50px;" >
       <a href="<?=site_url('maquinitas')?>">
-         <img src="../deporte-removebg-preview.png" style="border-radius: 12px; height:150px; width: 550px" class="card-img" alt="...">
+         <img src="../deporte-removebg-preview.png" style="border-radius: 12px; height:150px; width: 550px; background-color: #000000" class="card-img" alt="...">
       </a>
       <a href="<?=site_url('maquinitas')?>">
-         <img src="https://casino.guide/media/roobet-crash.jpg" style="border-radius: 12px; height:150px; width: 550px; margin-left:70px" class="card-img-top" alt="...">
+         <img src="https://www.cronica.com.mx/uploads/2022/02/23/62170d0f964d3.png" style="border-radius: 12px; height:150px; width: 550px; margin-left:70px" class="card-img-top" alt="...">
       </a>
    </div>
    
-  
 
+   <div style="margin-left: 11%; margin-top: 50px; position: relative;">
+      <h2 style="color: #FFFFFF">Proximos Eventos</h2>
+      <div style="border-radius: 12px; " href="#" role="button" >
+         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png" style="height: 50px; position: absolute; margin: 20px; " alt="...">
+         <h5 style="position: absolute; top: 55px; left: 60px; margin: 20px; color: #FFFFFF; ">VS</h5>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png" style="height: 50px; position: absolute; left:100px; margin: 20px;"  alt="...">
+         <h5 style="position: absolute; top: 50px; left: 170px; margin: 20px; color: #FFFFFF;">Mañana</h5>
+         <h5 style="position: absolute; top: 75px; left: 185px; margin: 20px; color: #FFFFFF;">14:00</h5>
+         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:255px; top: 50px; margin: 20px;"  alt="...">
+      </div>
+      <div style="border-radius: 12px; position:absolute; top: 150px; margin 25px;" href="#" role="button">
+         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png" style="height: 50px; position: absolute; margin: 20px; " alt="...">
+         <h5 style="position: absolute; top: 10px; left: 60px; margin: 20px; color: #FFFFFF; ">VS</h5>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1200px-Eintracht_Frankfurt_Logo.svg.png" style="height: 50px; position: absolute; left:100px; margin: 20px;"  alt="...">
+         <h5 style="position: absolute; top: 10px; left: 170px; margin: 20px; color: #FFFFFF;">Mañana</h5>
+         <h5 style="position: absolute; top: 30px; left: 185px; margin: 20px; color: #FFFFFF;">14:00</h5>
+         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:255px; top: 10px; margin: 20px;"  alt="...">
+      </div>
+      <div style="border-radius: 12px;" href="#" role="button">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/1024px-SSC_Neapel.svg.png" style="height: 50px; position: absolute; margin: 20px; left: 800px" alt="...">
+         <h5 style="position: absolute; top: 55px; left: 870px; margin: 20px; color: #FFFFFF; ">VS</h5>
+         <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png" style="height: 50px; position: absolute; left:910px; margin: 20px;"  alt="...">
+         <h5 style="position: absolute; top: 50px; left: 980px; margin: 20px; color: #FFFFFF;">Mañana</h5>
+         <h5 style="position: absolute; top: 75px; left: 995px; margin: 20px; color: #FFFFFF;">14:00</h5>
+         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:1065px; top: 50px; margin: 20px;"  alt="...">
+      </div>
+      <div style="border-radius: 12px; position:absolute; top: 150px; margin 25px;" href="#" role="button">
+         <img src="http://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/42.png" style="height: 50px; position: absolute; margin: 20px; left: 800px" alt="...">
+         <h5 style="position: absolute; top: 10px; left: 870px; margin: 20px; color: #FFFFFF; ">VS</h5>
+         <img src="http://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/112.png" style="height: 50px; position: absolute; left:910px; margin: 20px;"  alt="...">
+         <h5 style="position: absolute; top: 10px; left: 980px; margin: 20px; color: #FFFFFF;">Mañana</h5>
+         <h5 style="position: absolute; top: 30px; left: 995px; margin: 20px; color: #FFFFFF;">14:00</h5>
+         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:1065px; top: 10px; margin: 20px;"  alt="...">
+      </div>
 
+   </div>
 
+   
+  <br><br><br><br><br><br><br><br><br><br>
+
+   <footer>
+      <h1></h1>
+   </footer>
 
    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
 <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-	
 </body>
 </html>
