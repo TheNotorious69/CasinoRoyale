@@ -73,16 +73,9 @@
 </nav>
 
 <div>
-<img src="..." class="img-thumbnail" alt="...">
-<img src="..." class="img-thumbnail" alt="...">
-<img src="..." class="img-thumbnail" alt="...">
-<img src="..." class="img-thumbnail" alt="...">
-<img src="..." class="img-thumbnail" alt="...">
-<img src="..." class="img-thumbnail" alt="...">
-<img src="..." class="img-thumbnail" alt="...">
-<img src="..." class="img-thumbnail" alt="...">
-<img src="..." class="img-thumbnail" alt="...">
-
+<img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/pragmatic:vs20fruitsw-kugK-iJVB.jpeg" class="img-thumbnail" style="height: 200px; weigth:200px; border-radius: 20px;">
+<img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/relax:MoneyTrain-mEetB84br.jpeg" class="img-thumbnail" sytle=" heigth: 200px; weigth: 200px; border-radius: 20px;">
+   <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/pragmatic:vs20fruitsw-kugK-iJVB.jpeg" class="img-thumbnail" style="height: 200px; weigth:200px; border-radius: 20px;">
 </div>
 
 
