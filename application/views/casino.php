@@ -10,7 +10,7 @@
 </head>
 <body style="background-color: #322C5C">
 
-<nav class="navbar navbar-expand-lg" style="background-color: #423C7A;">
+   <nav class="navbar navbar-expand-lg" style="background-color: #423C7A;">
   <div class="container-fluid">
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -41,7 +41,7 @@
       </ul>
     </div>
   </div>
-</nav>
+   </nav>
 
 <nav class="navbar navbar-expand-lg" style="background-color: #302A58;" class="nav justify-content-center">
    <ul class="nav justify-content-center" style="backgroud-color: #302A58;">
@@ -70,6 +70,33 @@
       </li>
    </ul>
 </nav>
+
+<div style="display: flex;">
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
+      <h4>Mejores</h4>
+      <h4>Opciones</h4>
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
+   </div>
+</div>
+
+
+
+
 
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
