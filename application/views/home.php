@@ -102,7 +102,7 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png" style="height: 50px; position: absolute; left:100px; margin: 20px;"  alt="...">
          <h5 style="position: absolute; top: 50px; left: 170px; margin: 20px; color: #FFFFFF;">Mañana</h5>
          <h5 style="position: absolute; top: 75px; left: 185px; margin: 20px; color: #FFFFFF;">14:00</h5>
-         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:255px; top: 50px; margin: 20px;"  alt="...">
+         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:255px; top: 50px; margin: 20px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);"  alt="...">
       </div>
       <div style="border-radius: 12px; position:absolute; top: 150px; margin 25px;" href="#" role="button">
          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png" style="height: 50px; position: absolute; margin: 20px; " alt="...">
@@ -110,7 +110,7 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1200px-Eintracht_Frankfurt_Logo.svg.png" style="height: 50px; position: absolute; left:100px; margin: 20px;"  alt="...">
          <h5 style="position: absolute; top: 10px; left: 170px; margin: 20px; color: #FFFFFF;">Mañana</h5>
          <h5 style="position: absolute; top: 30px; left: 185px; margin: 20px; color: #FFFFFF;">14:00</h5>
-         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:255px; top: 10px; margin: 20px;"  alt="...">
+         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:255px; top: 10px; margin: 20px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);"  alt="...">
       </div>
       <div style="border-radius: 12px;" href="#" role="button">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/1024px-SSC_Neapel.svg.png" style="height: 50px; position: absolute; margin: 20px; left: 800px" alt="...">
@@ -118,7 +118,7 @@
          <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png" style="height: 50px; position: absolute; left:910px; margin: 20px;"  alt="...">
          <h5 style="position: absolute; top: 50px; left: 980px; margin: 20px; color: #FFFFFF;">Mañana</h5>
          <h5 style="position: absolute; top: 75px; left: 995px; margin: 20px; color: #FFFFFF;">14:00</h5>
-         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:1065px; top: 50px; margin: 20px;"  alt="...">
+         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:1065px; top: 50px; margin: 20px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);"  alt="...">
       </div>
       <div style="border-radius: 12px; position:absolute; top: 150px; margin 25px;" href="#" role="button">
          <img src="http://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/42.png" style="height: 50px; position: absolute; margin: 20px; left: 800px" alt="...">
@@ -126,7 +126,7 @@
          <img src="http://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/112.png" style="height: 50px; position: absolute; left:910px; margin: 20px;"  alt="...">
          <h5 style="position: absolute; top: 10px; left: 980px; margin: 20px; color: #FFFFFF;">Mañana</h5>
          <h5 style="position: absolute; top: 30px; left: 995px; margin: 20px; color: #FFFFFF;">14:00</h5>
-         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:1065px; top: 10px; margin: 20px;"  alt="...">
+         <img src="https://cdn-icons-png.flaticon.com/512/60/60977.png" style="height: 50px; position: absolute; left:1065px; top: 10px; margin: 20px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);"  alt="...">
       </div>
 
    </div>
