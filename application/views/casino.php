@@ -73,24 +73,30 @@
 
 <div style="display: flex;">
    <div style="padding: 20px; margin: auto;">
-      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
-      <h4>Mejores</h4>
-      <h4>Opciones</h4>
+      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(2500%);">
+      <h6 style="color: #E6BE4B; text-align: center; margin-top: 10px;">Mejores</h6>
+      <h6 style="color: #E6BE4B; text-align: center;">Opciones</h6>
    </div>
    <div style="padding: 20px; margin: auto;">
-      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
+      <img src="../logo.png" alt="" style="height: 100px;">
+      <h6 style="color: #E6BE4B; text-align: center; margin-top: 10px;">Sala de Oro</h6>
    </div>
    <div style="padding: 20px; margin: auto;">
-      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
+      <img src="https://cdn-icons-png.flaticon.com/512/3507/3507018.png" alt="" style="height: 90px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(2500%);">
+      <br><br>
+      <h6 style="color: #E6BE4B; text-align: center; margin-top: 10px;">Sala de Oro</h6>
    </div>
    <div style="padding: 20px; margin: auto;">
-      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
+      <img src="https://cdn-icons-png.flaticon.com/512/4974/4974289.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(2500%);">
+      <h6 style="color: #E6BE4B; text-align: center; margin-top: 10px;">Ruleta</h6>
    </div>
    <div style="padding: 20px; margin: auto;">
-      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
+      <img src="https://cdn-icons-png.flaticon.com/512/1006/1006907.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(2500%);">
+      <h6 style="color: #E6BE4B; text-align: center; margin-top: 10px;">Ruleta</h6>
    </div>
    <div style="padding: 20px; margin: auto;">
-      <img src="https://cdn-icons-png.flaticon.com/512/3443/3443580.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(1000%);">
+      <img src="http://cdn.onlinewebfonts.com/svg/img_191941.png" alt="" style="height: 100px; filter: invert(0.4) sepia(1) hue-rotate(20deg) saturate(2500%);">
+      <h6 style="color: #E6BE4B; text-align: center; margin-top: 10px;">Otros Juegos</h6>
    </div>
 </div>
 
