@@ -80,7 +80,7 @@
       <a href="<?=site_url('maquinitas')?>">
          <img src="https://megaricos.com/wp-content/uploads/2021/05/shutterstock_1231143874.jpg" style="border-radius: 12px; height:150px; width: 550px" class="card-img-top" alt="...">
       </a>
-      <a href="<?=site_url('maquinitas')?>">
+      <a href="<?=site_url('crash')?>">
          <img src="https://casino.guide/media/roobet-crash.jpg" style="border-radius: 12px; height:150px; width: 550px; margin-left:70px" class="card-img-top" alt="...">
       </a>
    </div>
