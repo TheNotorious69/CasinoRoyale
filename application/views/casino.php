@@ -100,7 +100,59 @@
    </div>
 </div>
 
+<div style="display: flex;">
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/pragmatic:240-hp9wyC73b.jpeg" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">PowerUp Roulette</h6>
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/pragmatic:232-u2gKn5ANs.jpeg" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">Roulette</h6>
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/pragmatic:204-PZxUwp4UZ.jpeg" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">Mega Roulette</h6>
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/evolution:CrazyCoinFlip-IHPW8ciEP.jpeg" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">Crazy Coin Flip</h6>
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/pragmatic:573-LkV5fJFrW.jpeg" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">Roo's BlackJack Two</h6>
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/pragmatic:801-8xdSZHku2.jpeg" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">Mega Roulette</h6>
+   </div>
+</div>
 
+<div style="display: flex;">
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/evolution:RoobetFirstPersonBlackjack-0DnmJKKX0.jpeg" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">First Person BlackJack</h6>
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://tekhou5-dk2.pragmaticplay.net/game_pic/square/200/901.png" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">One BlackJack</h6>
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/evolution:XXXTremeLightningRoulette-uwKzLmszY.jpeg" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">XXXtreme Roulette</h6>
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/pragmatic:572-d4pCWtYRd.jpeg" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">Roo's BlackJack One</h6>
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://cdn.softswiss.net/i/s3/evolution/auto_roulette.png" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">Auto Roulette</h6>
+   </div>
+   <div style="padding: 20px; margin: auto;">
+      <img src="https://roobet.com/cdn-cgi/image/dpr=1.25,width=200,height=auto,quality=50,metadata=none,format=auto/https://roobet-public.s3.amazonaws.com/pragmatic:571-yIytxGnz6.jpeg" alt="" style="height: 150px; border-radius: 15px">
+      <h6 style="text-align: center; color: #FFFFFF; font-size: 14px; margin-top: 10px">Roo's VIP BlackJack</h6>
+   </div>
+</div>
 
 
 
